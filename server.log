@@ -1,0 +1,322 @@
+2026-04-12 15:36:56 [INFO] Starting minecraft server version 1.2.5
+2026-04-12 15:36:56 [INFO] Loading properties
+2026-04-12 15:36:56 [WARNING] server.properties does not exist
+2026-04-12 15:36:56 [INFO] Generating new properties file
+2026-04-12 15:36:56 [INFO] Starting Minecraft server on *:25565
+2026-04-12 15:36:56 [WARNING] Failed to load ban list: java.io.FileNotFoundException: banned-players.txt (지정된 파일을 찾을 수 없습니다)
+2026-04-12 15:36:56 [WARNING] Failed to load ip ban list: java.io.FileNotFoundException: banned-ips.txt (지정된 파일을 찾을 수 없습니다)
+2026-04-12 15:36:56 [WARNING] Failed to load operators list: java.io.FileNotFoundException: ops.txt (지정된 파일을 찾을 수 없습니다)
+2026-04-12 15:36:56 [WARNING] Failed to load white-list: java.io.FileNotFoundException: white-list.txt (지정된 파일을 찾을 수 없습니다)
+2026-04-12 15:36:56 [INFO] Preparing level "world"
+2026-04-12 15:36:56 [INFO] Default game type: 0
+2026-04-12 15:36:57 [INFO] Preparing start region for level 0
+2026-04-12 15:37:11 [INFO] Starting minecraft server version 1.2.5
+2026-04-12 15:37:11 [INFO] Loading properties
+2026-04-12 15:37:11 [INFO] Starting Minecraft server on *:25565
+2026-04-12 15:37:11 [INFO] Preparing level "world"
+2026-04-12 15:37:11 [INFO] Default game type: 0
+2026-04-12 15:37:11 [INFO] Preparing start region for level 0
+2026-04-12 15:37:12 [INFO] Preparing spawn area: 40%
+2026-04-12 15:37:13 [INFO] Preparing spawn area: 89%
+2026-04-12 15:37:13 [INFO] Done (2.325s)! For help, type "help" or "?"
+2026-04-12 15:37:33 [INFO] /127.0.0.1:58003 lost connection
+2026-04-12 15:38:48 [INFO] /127.0.0.1:50628 lost connection
+2026-04-12 15:38:56 [INFO] Unknown console command. Type "help" for help.
+2026-04-12 15:39:00 [INFO] CONSOLE: Stopping the server..
+2026-04-12 15:39:00 [INFO] Stopping server
+2026-04-12 15:39:00 [INFO] Saving chunks
+2026-04-12 15:39:00 [INFO] Saving chunks
+2026-04-12 15:39:00 [INFO] Saving chunks
+2026-04-12 15:39:03 [INFO] Starting minecraft server version 1.2.5
+2026-04-12 15:39:03 [INFO] Loading properties
+2026-04-12 15:39:03 [INFO] Starting Minecraft server on *:25565
+2026-04-12 15:39:03 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2026-04-12 15:39:03 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2026-04-12 15:39:03 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2026-04-12 15:39:03 [WARNING] To change this, set "online-mode" to "true" in the server.settings file.
+2026-04-12 15:39:03 [INFO] Preparing level "world"
+2026-04-12 15:39:03 [INFO] Default game type: 0
+2026-04-12 15:39:03 [INFO] Preparing start region for level 0
+2026-04-12 15:39:04 [INFO] Preparing spawn area: 40%
+2026-04-12 15:39:05 [INFO] Preparing spawn area: 93%
+2026-04-12 15:39:05 [INFO] Done (2.115s)! For help, type "help" or "?"
+2026-04-12 15:39:11 [INFO] Player [/127.0.0.1:50639] logged in with entity id 910 at (-5.5, 69.62000000476837, -9.5)
+2026-04-12 15:39:20 [INFO] Player lost connection: disconnect.quitting
+2026-04-12 15:50:02 [INFO] Player [/127.0.0.1:61423] logged in with entity id 5226 at (-4.282795595349086, 72.0, -18.69999998807907)
+2026-04-12 15:51:11 [INFO] CONSOLE: Stopping the server..
+2026-04-12 15:51:11 [INFO] Stopping server
+2026-04-12 15:51:11 [INFO] Saving chunks
+2026-04-12 15:51:11 [INFO] Saving chunks
+2026-04-12 15:51:11 [INFO] Saving chunks
+2026-04-12 15:51:19 [INFO] Starting minecraft server version 1.2.5
+2026-04-12 15:51:19 [INFO] Loading properties
+2026-04-12 15:51:19 [INFO] Starting Minecraft server on *:25565
+2026-04-12 15:51:19 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2026-04-12 15:51:19 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2026-04-12 15:51:19 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2026-04-12 15:51:19 [WARNING] To change this, set "online-mode" to "true" in the server.settings file.
+2026-04-12 15:51:19 [INFO] Preparing level "world"
+2026-04-12 15:51:19 [INFO] Default game type: 0
+2026-04-12 15:51:19 [INFO] Preparing start region for level 0
+2026-04-12 15:51:19 [INFO] Done (0.254s)! For help, type "help" or "?"
+2026-04-12 15:51:29 [INFO] Player [/127.0.0.1:49697] logged in with entity id 371 at (36.21249829551121, 62.0, 13.547130764913366)
+2026-04-12 19:44:48 [INFO] Starting minecraft server version 1.2.5
+2026-04-12 19:44:48 [INFO] Loading properties
+2026-04-12 19:44:48 [INFO] Starting Minecraft server on *:25565
+2026-04-12 19:44:48 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2026-04-12 19:44:48 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2026-04-12 19:44:48 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2026-04-12 19:44:48 [WARNING] To change this, set "online-mode" to "true" in the server.settings file.
+2026-04-12 19:44:48 [INFO] Preparing level "world"
+2026-04-12 19:44:48 [INFO] Default game type: 0
+2026-04-12 19:44:48 [INFO] Preparing start region for level 0
+2026-04-12 19:44:48 [INFO] Done (0.258s)! For help, type "help" or "?"
+2026-04-12 19:49:20 [INFO] Player [/127.0.0.1:57174] logged in with entity id 392 at (36.21249829551121, 62.0, 13.547130764913366)
+2026-04-12 19:50:18 [INFO] jake [/127.0.0.1:52335] logged in with entity id 2458 at (-5.5, 69.62000000476837, -7.5)
+2026-04-12 19:51:29 [INFO] Player lost connection: disconnect.quitting
+2026-04-12 19:51:32 [INFO] jake lost connection: disconnect.genericReason
+2026-04-12 19:51:32 [INFO] Player [/127.0.0.1:64608] logged in with entity id 4312 at (-5.75, 64.0, 8.09375)
+2026-04-12 19:51:46 [INFO] Unknown console command. Type "help" for help.
+2026-04-12 19:51:48 [INFO] To run the server without a gui, start it like this:
+2026-04-12 19:51:48 [INFO]    java -Xmx1024M -Xms1024M -jar minecraft_server.jar nogui
+2026-04-12 19:51:48 [INFO] Console commands:
+2026-04-12 19:51:48 [INFO]    help  or  ?               shows this message
+2026-04-12 19:51:48 [INFO]    kick <player>             removes a player from the server
+2026-04-12 19:51:48 [INFO]    ban <player>              bans a player from the server
+2026-04-12 19:51:48 [INFO]    pardon <player>           pardons a banned player so that they can connect again
+2026-04-12 19:51:48 [INFO]    ban-ip <ip>               bans an IP address from the server
+2026-04-12 19:51:48 [INFO]    pardon-ip <ip>            pardons a banned IP address so that they can connect again
+2026-04-12 19:51:48 [INFO]    op <player>               turns a player into an op
+2026-04-12 19:51:48 [INFO]    deop <player>             removes op status from a player
+2026-04-12 19:51:48 [INFO]    tp <player1> <player2>    moves one player to the same location as another player
+2026-04-12 19:51:48 [INFO]    give <player> <id> [num]  gives a player a resource
+2026-04-12 19:51:48 [INFO]    tell <player> <message>   sends a private message to a player
+2026-04-12 19:51:48 [INFO]    stop                      gracefully stops the server
+2026-04-12 19:51:48 [INFO]    save-all                  forces a server-wide level save
+2026-04-12 19:51:48 [INFO]    save-off                  disables terrain saving (useful for backup scripts)
+2026-04-12 19:51:48 [INFO]    save-on                   re-enables terrain saving
+2026-04-12 19:51:48 [INFO]    list                      lists all currently connected players
+2026-04-12 19:51:48 [INFO]    say <message>             broadcasts a message to all players
+2026-04-12 19:51:48 [INFO]    time <add|set> <amount>   adds to or sets the world time (0-24000)
+2026-04-12 19:51:48 [INFO]    gamemode <player> <mode>  sets player's game mode (0 or 1)
+2026-04-12 19:51:48 [INFO]    toggledownfall            toggles rain on or off
+2026-04-12 19:51:48 [INFO]    xp <player> <amount>      gives the player the amount of xp (0-5000)
+2026-04-12 19:51:53 [INFO] Unknown console command. Type "help" for help.
+2026-04-12 19:52:04 [INFO] Player lost connection: disconnect.genericReason
+2026-04-12 19:52:55 [INFO] Player [/127.0.0.1:64673] logged in with entity id 5172 at (-6.0625, 64.0, 27.84375)
+2026-04-12 19:53:03 [INFO] Unknown console command. Type "help" for help.
+2026-04-12 19:53:19 [INFO] jake [/127.0.0.1:64683] logged in with entity id 6066 at (-6.90625, 64.0, 7.46875)
+2026-04-12 19:54:13 [INFO] Player tried command: ban
+2026-04-12 19:54:19 [INFO] Player tried command: ping
+2026-04-12 19:54:46 [INFO] Player lost connection: disconnect.quitting
+2026-04-12 19:54:49 [INFO] jake lost connection: disconnect.genericReason
+2026-04-12 19:59:51 [INFO] Starting minecraft server version 1.2.5
+2026-04-12 19:59:51 [INFO] Loading properties
+2026-04-12 19:59:51 [INFO] Starting Minecraft server on 0.0.0.0:25565
+2026-04-12 19:59:51 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2026-04-12 19:59:51 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2026-04-12 19:59:51 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2026-04-12 19:59:51 [WARNING] To change this, set "online-mode" to "true" in the server.settings file.
+2026-04-12 19:59:51 [INFO] Preparing level "world"
+2026-04-12 19:59:51 [INFO] Default game type: 0
+2026-04-12 19:59:51 [INFO] Preparing start region for level 0
+2026-04-12 19:59:51 [INFO] Done (0.246s)! For help, type "help" or "?"
+2026-04-12 20:33:18 [INFO] Starting minecraft server version 1.2.5
+2026-04-12 20:33:18 [INFO] Loading properties
+2026-04-12 20:33:18 [INFO] Starting Minecraft server on *:25565
+2026-04-12 20:33:18 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2026-04-12 20:33:18 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2026-04-12 20:33:18 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2026-04-12 20:33:18 [WARNING] To change this, set "online-mode" to "true" in the server.settings file.
+2026-04-12 20:33:18 [INFO] Preparing level "world"
+2026-04-12 20:33:18 [INFO] Default game type: 0
+2026-04-12 20:33:18 [INFO] Preparing start region for level 0
+2026-04-12 20:33:19 [INFO] Done (0.286s)! For help, type "help" or "?"
+2026-04-12 20:33:28 [INFO] Player [/26.105.150.15:52979] logged in with entity id 317 at (-17.966975061720838, 64.0, 35.93281122465491)
+2026-04-12 20:34:09 [INFO] Player lost connection: disconnect.quitting
+2026-04-12 20:38:54 [INFO] Player [/26.105.150.15:62515] logged in with entity id 975 at (-17.000403476646348, 64.0, 29.005773548947907)
+2026-04-12 20:39:09 [INFO] Unknown console command. Type "help" for help.
+2026-04-12 20:39:13 [INFO] CONSOLE: Opping player
+2026-04-12 20:39:18 [INFO] Player issued server command: help
+2026-04-12 20:39:22 [INFO] Player issued server command: gamemode c
+2026-04-12 20:39:32 [INFO] Unknown console command. Type "help" for help.
+2026-04-12 20:39:39 [INFO] Unknown console command. Type "help" for help.
+2026-04-12 20:39:44 [INFO] Unknown console command. Type "help" for help.
+2026-04-12 20:39:51 [INFO] There's no game mode with id c
+2026-04-12 20:39:56 [INFO] There's no game mode with id creative
+2026-04-12 20:40:01 [INFO] CONSOLE: Setting Player to game mode 1
+2026-04-12 20:40:11 [INFO] Player issued server command: gamemode 2
+2026-04-12 20:41:09 [INFO] Starting minecraft server version 1.2.5
+2026-04-12 20:41:09 [INFO] Loading properties
+2026-04-12 20:41:09 [INFO] Starting Minecraft server on *:25565
+2026-04-12 20:41:09 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2026-04-12 20:41:09 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2026-04-12 20:41:09 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2026-04-12 20:41:09 [WARNING] To change this, set "online-mode" to "true" in the server.settings file.
+2026-04-12 20:41:09 [INFO] Preparing level "world"
+2026-04-12 20:41:09 [INFO] Default game type: 0
+2026-04-12 20:41:09 [INFO] Preparing start region for level 0
+2026-04-12 20:41:09 [INFO] Done (0.252s)! For help, type "help" or "?"
+2026-04-12 20:41:15 [INFO] Player [/26.105.150.15:50572] logged in with entity id 319 at (-17.000403476646348, 64.0, 29.005773548947907)
+2026-04-12 20:42:01 [INFO] Player lost connection: disconnect.quitting
+2026-04-12 20:43:54 [INFO] Player [/26.105.150.15:63330] logged in with entity id 646 at (-28.789274925038484, 63.0, -31.313655888843975)
+2026-04-12 20:44:31 [INFO] <Player> wwwwww
+2026-04-12 20:44:46 [INFO] Player lost connection: disconnect.quitting
+2026-04-12 20:46:01 [INFO] jake [/26.251.223.4:52101] logged in with entity id 1146 at (0.034144840174620605, 64.0, 42.70476040644762)
+2026-04-12 20:46:03 [INFO] Player [/26.105.150.15:54957] logged in with entity id 1711 at (-28.41839700961477, 63.0, -33.313988169835454)
+2026-04-12 20:47:06 [INFO] Player lost connection: disconnect.quitting
+2026-04-12 20:47:09 [INFO] Player [/26.105.150.15:54995] logged in with entity id 4379 at (-0.44051835019025054, 63.0, 73.83009379374722)
+2026-04-12 20:50:33 [INFO] jake lost connection: disconnect.quitting
+2026-04-12 20:50:38 [INFO] jake [/26.251.223.4:52164] logged in with entity id 6547 at (-8.79319579640299, 58.0, 74.6015034834512)
+2026-04-12 20:51:42 [INFO] Player issued server command: kick jake
+2026-04-12 20:51:42 [INFO] Player: Kicking jake
+2026-04-12 20:51:42 [INFO] jake lost connection: disconnect.endOfStream
+2026-04-12 20:51:49 [INFO] jake [/26.251.223.4:52173] logged in with entity id 6906 at (-5.8125, 63.0, 75.28125)
+2026-04-12 20:52:19 [INFO] Player issued server command: spawn
+2026-04-12 20:52:19 [INFO] Unknown console command. Type "help" for help.
+2026-04-12 20:54:38 [INFO] Player lost connection: disconnect.quitting
+2026-04-12 20:54:47 [INFO] CONSOLE: Banning jake
+2026-04-12 20:54:51 [INFO] Disconnecting jake [/26.251.223.4:52186]: You are banned from this server!
+2026-04-12 20:54:52 [INFO] CONSOLE: Pardoning jake
+2026-04-12 20:54:56 [INFO] CONSOLE: Pardoning jake
+2026-04-12 20:55:02 [INFO] jake [/26.251.223.4:52193] logged in with entity id 8045 at (-13.402257168887989, 55.0, 54.7194668400319)
+2026-04-12 20:55:36 [INFO] jake lost connection: disconnect.quitting
+2026-04-12 20:56:17 [INFO] Player [/26.105.150.15:52993] logged in with entity id 8078 at (-15.699999988079073, 50.09499854721885, 53.300000011920936)
+2026-04-12 20:56:19 [INFO] Player lost connection: disconnect.quitting
+2026-04-12 20:56:38 [INFO] second [/26.105.150.15:62349] logged in with entity id 8079 at (9.5, 64.62000000476837, 5.5)
+2026-04-12 20:57:45 [INFO] Player [/26.105.150.15:64305] logged in with entity id 8113 at (-15.699999988079071, 47.85326199040027, 53.300000011920936)
+2026-04-12 20:57:47 [INFO] Player lost connection: disconnect.quitting
+2026-04-12 20:57:58 [INFO] jake [/26.251.223.4:52216] logged in with entity id 8116 at (-15.699999988079073, 52.0, 55.30000001192093)
+2026-04-12 20:58:36 [INFO] Player [/26.105.150.15:60450] logged in with entity id 8239 at (-15.699999988079071, 47.0, 53.300000011920936)
+2026-04-12 20:58:38 [INFO] Player lost connection: disconnect.quitting
+2026-04-12 20:58:52 [INFO] Player [/26.105.150.15:60459] logged in with entity id 8291 at (-15.699999988079071, 47.0, 53.300000011920936)
+2026-04-12 20:58:53 [INFO] Player lost connection: disconnect.quitting
+2026-04-12 20:59:21 [INFO] second lost connection: disconnect.quitting
+2026-04-12 20:59:26 [INFO] Player [/26.105.150.15:60481] logged in with entity id 8332 at (-15.300000011920933, 47.0, 53.50383199487786)
+2026-04-12 20:59:28 [INFO] Player lost connection: disconnect.quitting
+2026-04-12 21:00:11 [INFO] /26.105.150.15:55998 lost connection
+2026-04-12 21:00:25 [INFO] Starting minecraft server version 1.2.5
+2026-04-12 21:00:25 [INFO] Loading properties
+2026-04-12 21:00:25 [INFO] Starting Minecraft server on *:25565
+2026-04-12 21:00:25 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2026-04-12 21:00:25 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2026-04-12 21:00:25 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2026-04-12 21:00:25 [WARNING] To change this, set "online-mode" to "true" in the server.settings file.
+2026-04-12 21:00:25 [INFO] Preparing level "world"
+2026-04-12 21:00:25 [INFO] Default game type: 0
+2026-04-12 21:00:25 [INFO] Preparing start region for level 0
+2026-04-12 21:00:26 [INFO] Done (0.248s)! For help, type "help" or "?"
+2026-04-12 21:00:30 [INFO] /26.105.150.15:56016 lost connection
+2026-04-12 21:00:32 [INFO] jake [/26.251.223.4:52249] logged in with entity id 372 at (-15.699999988079073, 52.0, 55.30000001192093)
+2026-04-12 21:01:35 [INFO] /26.105.150.15:60463 lost connection
+2026-04-12 21:01:53 [INFO] Starting minecraft server version 1.2.5
+2026-04-12 21:01:53 [INFO] Loading properties
+2026-04-12 21:01:53 [INFO] Starting Minecraft server on *:25565
+2026-04-12 21:01:53 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2026-04-12 21:01:53 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2026-04-12 21:01:53 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2026-04-12 21:01:53 [WARNING] To change this, set "online-mode" to "true" in the server.settings file.
+2026-04-12 21:01:53 [INFO] Preparing level "world"
+2026-04-12 21:01:53 [INFO] Default game type: 0
+2026-04-12 21:01:53 [INFO] Preparing start region for level 0
+2026-04-12 21:01:53 [INFO] Done (0.238s)! For help, type "help" or "?"
+2026-04-12 21:02:33 [INFO] second [/26.105.150.15:53297] logged in with entity id 340 at (-16.300000011920943, 44.0, 53.502528945021965)
+2026-04-12 21:02:38 [INFO] jake [/26.251.223.4:52307] logged in with entity id 346 at (-15.699999988079073, 52.0, 55.30000001192093)
+2026-04-12 21:02:41 [INFO] jake lost connection: disconnect.quitting
+2026-04-12 21:02:43 [INFO] jake [/26.251.223.4:52313] logged in with entity id 378 at (-15.699999988079071, 49.0, 55.30000001192093)
+2026-04-12 21:02:52 [INFO] CONSOLE: Kicking second
+2026-04-12 21:02:52 [INFO] second lost connection: disconnect.endOfStream
+2026-04-12 21:02:57 [INFO] second [/26.105.150.15:58018] logged in with entity id 512 at (-16.300000011920943, 44.0, 53.502528945021965)
+2026-04-12 21:03:33 [INFO] second tried command: seed
+2026-04-12 21:03:52 [INFO] second tried command: kick
+2026-04-12 21:03:56 [INFO] second tried command: kick second
+2026-04-12 21:04:03 [INFO] CONSOLE: Opping second
+2026-04-12 21:04:07 [INFO] second issued server command: kick
+2026-04-12 21:04:09 [INFO] second issued server command: kick all
+2026-04-12 21:04:12 [INFO] second issued server command: kick @a
+2026-04-12 21:04:15 [INFO] second issued server command: kick second
+2026-04-12 21:04:15 [INFO] second: Kicking second
+2026-04-12 21:04:16 [INFO] second lost connection: disconnect.endOfStream
+2026-04-12 21:04:20 [INFO] second [/26.105.150.15:56749] logged in with entity id 888 at (-8.069440329154144, 64.0, 27.42738392534144)
+2026-04-12 21:05:35 [WARNING] jake moved wrongly!
+2026-04-12 21:06:31 [INFO] jake lost connection: disconnect.quitting
+2026-04-12 21:06:39 [INFO] jake [/26.251.223.4:52335] logged in with entity id 3050 at (36.87474706744719, 64.0, 45.98395879381081)
+2026-04-12 21:06:42 [INFO] jake lost connection: disconnect.quitting
+2026-04-12 21:06:45 [INFO] jake [/26.251.223.4:52341] logged in with entity id 3055 at (39.41836578142586, 64.93612497923645, 38.02813738789093)
+2026-04-12 21:07:05 [INFO] second lost connection: disconnect.quitting
+2026-04-12 21:15:55 [INFO] jake lost connection: disconnect.quitting
+2026-04-13 18:03:46 [INFO] Starting minecraft server version 1.2.5
+2026-04-13 18:03:46 [INFO] Loading properties
+2026-04-13 18:03:46 [INFO] Starting Minecraft server on *:25565
+2026-04-13 18:03:46 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2026-04-13 18:03:46 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2026-04-13 18:03:46 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2026-04-13 18:03:46 [WARNING] To change this, set "online-mode" to "true" in the server.settings file.
+2026-04-13 18:03:46 [INFO] Preparing level "world"
+2026-04-13 18:03:46 [INFO] Default game type: 0
+2026-04-13 18:03:46 [INFO] Preparing start region for level 0
+2026-04-13 18:03:46 [INFO] Done (0.262s)! For help, type "help" or "?"
+2026-04-13 18:03:51 [INFO] second [/26.105.150.15:51701] logged in with entity id 352 at (42.510632390738884, 64.0, 36.64559111877428)
+2026-04-13 18:04:02 [INFO] second lost connection: disconnect.quitting
+2026-04-13 18:04:22 [INFO] 앙기모찌 [/26.105.150.15:50995] logged in with entity id 354 at (5.5, 64.62000000476837, -2.5)
+2026-04-13 18:04:30 [INFO] 앙기모찌 lost connection: disconnect.quitting
+2026-04-13 18:05:09 [INFO] KuroNyan [/26.105.150.15:65296] logged in with entity id 357 at (-3.5, 68.62000000476837, -6.5)
+2026-04-13 18:06:31 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-13 18:06:32 [INFO] KuroNyan [/26.105.150.15:49694] logged in with entity id 514 at (-7.595231743173729, 66.0, -8.300000011920929)
+2026-04-13 18:06:37 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-13 18:08:15 [INFO] Starting minecraft server version 1.2.5
+2026-04-13 18:08:15 [INFO] Loading properties
+2026-04-13 18:08:15 [INFO] Starting Minecraft server on *:25565
+2026-04-13 18:08:15 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2026-04-13 18:08:15 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2026-04-13 18:08:15 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2026-04-13 18:08:15 [WARNING] To change this, set "online-mode" to "true" in the server.settings file.
+2026-04-13 18:08:15 [INFO] Preparing level "world"
+2026-04-13 18:08:15 [INFO] Default game type: 0
+2026-04-13 18:08:15 [INFO] Preparing start region for level 0
+2026-04-13 18:08:16 [INFO] Done (0.235s)! For help, type "help" or "?"
+2026-04-13 18:08:17 [INFO] KuroNyan [/26.105.150.15:50642] logged in with entity id 308 at (-7.515825096552221, 66.0, -8.53233440207646)
+2026-04-13 18:08:40 [INFO] Unknown console command. Type "help" for help.
+2026-04-13 18:08:42 [INFO] Unknown console command. Type "help" for help.
+2026-04-13 18:08:45 [INFO] There's no game mode with id creativew
+2026-04-13 18:08:46 [INFO] Unknown console command. Type "help" for help.
+2026-04-13 18:08:47 [INFO] There's no game mode with id creative
+2026-04-13 18:08:49 [INFO] Unknown console command. Type "help" for help.
+2026-04-13 18:09:03 [INFO] Can't find user creative
+2026-04-13 18:09:05 [INFO] Unknown console command. Type "help" for help.
+2026-04-13 18:09:06 [INFO] Unknown console command. Type "help" for help.
+2026-04-13 18:09:06 [INFO] Unknown console command. Type "help" for help.
+2026-04-13 18:09:06 [INFO] Unknown console command. Type "help" for help.
+2026-04-13 18:09:06 [INFO] Unknown console command. Type "help" for help.
+2026-04-13 18:09:06 [INFO] Unknown console command. Type "help" for help.
+2026-04-13 18:09:06 [INFO] Unknown console command. Type "help" for help.
+2026-04-13 18:09:06 [INFO] Unknown console command. Type "help" for help.
+2026-04-13 18:09:06 [INFO] Unknown console command. Type "help" for help.
+2026-04-13 18:09:06 [INFO] Unknown console command. Type "help" for help.
+2026-04-13 18:09:06 [INFO] Unknown console command. Type "help" for help.
+2026-04-13 18:09:07 [INFO] Unknown console command. Type "help" for help.
+2026-04-13 18:09:07 [INFO] Unknown console command. Type "help" for help.
+2026-04-13 18:09:07 [INFO] Unknown console command. Type "help" for help.
+2026-04-13 18:09:07 [INFO] Unknown console command. Type "help" for help.
+2026-04-13 18:09:22 [INFO] KuroNyan tried command: ping
+2026-04-13 18:09:24 [INFO] KuroNyan tried command: help
+2026-04-13 18:10:23 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-13 18:15:08 [INFO] KuroNyan [/26.105.150.15:49402] logged in with entity id 443 at (-54.57048111402723, 63.0, -2.6605187914026653)
+2026-04-13 18:15:28 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-13 18:19:25 [INFO] KuroNyan [/26.105.150.15:54520] logged in with entity id 459 at (-55.43788226443089, 63.67647087614428, -34.144098401920665)
+2026-04-13 18:19:39 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-13 18:21:21 [INFO] KuroNyan [/26.105.150.15:54565] logged in with entity id 466 at (-61.877099553899065, 63.0, -26.00671262656284)
+2026-04-13 18:21:44 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-13 18:22:38 [INFO] KuroNyan [/26.105.150.15:49381] logged in with entity id 493 at (-17.554321159157368, 67.0, -41.176149855387735)
+2026-04-13 18:23:55 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-13 18:25:34 [INFO] KuroNyan [/26.105.150.15:58489] logged in with entity id 538 at (45.300000011920936, 64.0, -115.41519192100326)
+2026-04-13 18:25:38 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-13 18:36:44 [INFO] KuroNyan [/26.105.150.15:54524] logged in with entity id 612 at (45.300000011920936, 64.0, -115.41519192100326)
+2026-04-13 18:37:23 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-13 18:39:14 [INFO] /26.105.150.15:57235 lost connection
+2026-04-13 18:40:41 [INFO] KuroNyan [/26.105.150.15:50357] logged in with entity id 681 at (47.1155885574175, 65.0, -114.69999998807907)
+2026-04-13 18:41:32 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-13 18:53:04 [INFO] KuroNyan [/26.105.150.15:52668] logged in with entity id 728 at (47.41458924181489, 71.0, -131.97951082555454)
+2026-04-13 18:53:41 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-13 18:53:44 [INFO] KuroNyan [/26.105.150.15:52687] logged in with entity id 760 at (38.5506127432647, 68.67647087614428, -178.95882483237563)
+2026-04-13 18:54:55 [INFO] KuroNyan lost connection: disconnect.quitting
