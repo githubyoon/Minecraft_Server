@@ -342,3 +342,31 @@
 2026-04-14 19:24:21 [INFO] Saving chunks
 2026-04-14 19:24:22 [INFO] Saving chunks
 2026-04-14 19:24:22 [INFO] Saving chunks
+2026-04-14 19:29:24 [INFO] Starting minecraft server version 1.2.5
+2026-04-14 19:29:24 [INFO] Loading properties
+2026-04-14 19:29:24 [INFO] Starting Minecraft server on *:25565
+2026-04-14 19:29:24 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2026-04-14 19:29:24 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2026-04-14 19:29:24 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2026-04-14 19:29:24 [WARNING] To change this, set "online-mode" to "true" in the server.settings file.
+2026-04-14 19:29:24 [INFO] Preparing level "world"
+2026-04-14 19:29:24 [INFO] Default game type: 0
+2026-04-14 19:29:24 [INFO] Preparing start region for level 0
+2026-04-14 19:29:24 [INFO] Done (0.248s)! For help, type "help" or "?"
+2026-04-14 19:29:30 [INFO] KuroNyan [/26.105.150.15:62520] logged in with entity id 331 at (33.34375, 63.0, -173.71875)
+2026-04-14 19:30:31 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-14 19:30:36 [INFO] KuroNyan [/26.105.150.15:62558] logged in with entity id 365 at (58.94496734735975, 40.91666519183366, -215.38634973827988)
+2026-04-14 19:30:47 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-14 19:31:43 [INFO] KuroNyan [/26.105.150.15:63707] logged in with entity id 408 at (51.69999998807907, 38.0, -223.68288413530925)
+2026-04-14 19:32:40 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-14 19:35:14 [INFO] KuroNyan [/26.105.150.15:49773] logged in with entity id 457 at (77.69999998807907, 37.0, -216.16289761166107)
+2026-04-14 19:35:29 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-14 19:35:31 [INFO] KuroNyan [/26.105.150.15:49794] logged in with entity id 506 at (72.7393686188565, 24.19347388999099, -203.69783908363993)
+2026-04-14 19:35:41 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-14 19:35:43 [INFO] KuroNyan [/26.105.150.15:49808] logged in with entity id 554 at (79.8963072994701, 9.771868968747144, -200.8388817480656)
+2026-04-14 19:35:45 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-14 19:35:52 [INFO] CONSOLE: Stopping the server..
+2026-04-14 19:35:52 [INFO] Stopping server
+2026-04-14 19:35:52 [INFO] Saving chunks
+2026-04-14 19:35:52 [INFO] Saving chunks
+2026-04-14 19:35:52 [INFO] Saving chunks
