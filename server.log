@@ -370,3 +370,147 @@
 2026-04-14 19:35:52 [INFO] Saving chunks
 2026-04-14 19:35:52 [INFO] Saving chunks
 2026-04-14 19:35:52 [INFO] Saving chunks
+2026-04-14 19:36:00 [INFO] Starting minecraft server version 1.2.5
+2026-04-14 19:36:00 [INFO] Loading properties
+2026-04-14 19:36:00 [INFO] Starting Minecraft server on *:25565
+2026-04-14 19:36:00 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2026-04-14 19:36:00 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2026-04-14 19:36:00 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2026-04-14 19:36:00 [WARNING] To change this, set "online-mode" to "true" in the server.settings file.
+2026-04-14 19:36:00 [INFO] Preparing level "world"
+2026-04-14 19:36:00 [INFO] Default game type: 0
+2026-04-14 19:36:00 [INFO] Preparing start region for level 0
+2026-04-14 19:36:00 [INFO] Done (0.240s)! For help, type "help" or "?"
+2026-04-14 19:36:02 [INFO] KuroNyan [/26.105.150.15:49832] logged in with entity id 336 at (79.30000001192093, 10.225897123731702, -201.33674743354027)
+2026-04-14 19:36:05 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-14 19:36:09 [INFO] KuroNyan [/26.105.150.15:49838] logged in with entity id 355 at (79.30000001192093, 9.650789271445523, -201.23236409678583)
+2026-04-14 19:36:32 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-14 19:36:48 [INFO] KuroNyan [/26.105.150.15:61216] logged in with entity id 410 at (4.886771640461854, 69.0, -31.960549623054494)
+2026-04-14 19:39:54 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-14 19:40:05 [INFO] KuroNyan [/26.105.150.15:64581] logged in with entity id 440 at (111.32307970349783, 72.0, -63.78271444351232)
+2026-04-14 19:40:54 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-14 19:41:49 [INFO] KuroNyan [/26.105.150.15:57354] logged in with entity id 467 at (142.69999998807907, 63.0, -45.972443154578166)
+2026-04-14 19:42:46 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-14 19:43:05 [INFO] KuroNyan [/26.105.150.15:65174] logged in with entity id 514 at (184.51962230889467, 66.1212968405392, -65.23305670525137)
+2026-04-14 19:43:23 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-14 19:43:59 [INFO] KuroNyan [/26.105.150.15:51866] logged in with entity id 556 at (141.42023295731852, 63.0, -42.09332911895528)
+2026-04-14 19:44:02 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-14 19:44:16 [INFO] KuroNyan [/26.105.150.15:53710] logged in with entity id 576 at (141.77090730576, 63.0, -44.49158641619825)
+2026-04-14 19:44:18 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-14 19:44:32 [INFO] KuroNyan [/26.105.150.15:56382] logged in with entity id 596 at (141.31978756936712, 63.0, -45.21991005857784)
+2026-04-14 19:44:34 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-14 19:44:47 [INFO] KuroNyan [/26.105.150.15:56418] logged in with entity id 617 at (139.62131324834087, 63.0, -47.13607945545741)
+2026-04-14 19:44:49 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-14 19:45:01 [INFO] KuroNyan [/26.105.150.15:56432] logged in with entity id 637 at (139.62131324834087, 63.0, -47.13607945545741)
+2026-04-14 19:45:03 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-14 19:45:15 [INFO] KuroNyan [/26.105.150.15:56444] logged in with entity id 657 at (139.62131324834087, 63.0, -47.13607945545741)
+2026-04-14 19:46:22 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-14 19:46:38 [INFO] KuroNyan [/26.105.150.15:59014] logged in with entity id 681 at (118.42727177526295, 64.0, -41.14665692375162)
+2026-04-14 19:47:14 [INFO] KuroNyan tried command: ping
+2026-04-14 19:50:37 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-14 19:50:38 [INFO] KuroNyan [/26.105.150.15:54078] logged in with entity id 879 at (160.15408765114546, 73.0, 13.699999988079082)
+2026-04-14 19:50:52 [INFO] Unknown console command. Type "help" for help.
+2026-04-14 19:50:56 [INFO] Unknown console command. Type "help" for help.
+2026-04-14 19:50:58 [INFO] To run the server without a gui, start it like this:
+2026-04-14 19:50:58 [INFO]    java -Xmx1024M -Xms1024M -jar minecraft_server.jar nogui
+2026-04-14 19:50:58 [INFO] Console commands:
+2026-04-14 19:50:58 [INFO]    help  or  ?               shows this message
+2026-04-14 19:50:58 [INFO]    kick <player>             removes a player from the server
+2026-04-14 19:50:58 [INFO]    ban <player>              bans a player from the server
+2026-04-14 19:50:58 [INFO]    pardon <player>           pardons a banned player so that they can connect again
+2026-04-14 19:50:58 [INFO]    ban-ip <ip>               bans an IP address from the server
+2026-04-14 19:50:58 [INFO]    pardon-ip <ip>            pardons a banned IP address so that they can connect again
+2026-04-14 19:50:58 [INFO]    op <player>               turns a player into an op
+2026-04-14 19:50:58 [INFO]    deop <player>             removes op status from a player
+2026-04-14 19:50:58 [INFO]    tp <player1> <player2>    moves one player to the same location as another player
+2026-04-14 19:50:58 [INFO]    give <player> <id> [num]  gives a player a resource
+2026-04-14 19:50:58 [INFO]    tell <player> <message>   sends a private message to a player
+2026-04-14 19:50:58 [INFO]    stop                      gracefully stops the server
+2026-04-14 19:50:58 [INFO]    save-all                  forces a server-wide level save
+2026-04-14 19:50:58 [INFO]    save-off                  disables terrain saving (useful for backup scripts)
+2026-04-14 19:50:58 [INFO]    save-on                   re-enables terrain saving
+2026-04-14 19:50:58 [INFO]    list                      lists all currently connected players
+2026-04-14 19:50:58 [INFO]    say <message>             broadcasts a message to all players
+2026-04-14 19:50:58 [INFO]    time <add|set> <amount>   adds to or sets the world time (0-24000)
+2026-04-14 19:50:58 [INFO]    gamemode <player> <mode>  sets player's game mode (0 or 1)
+2026-04-14 19:50:58 [INFO]    toggledownfall            toggles rain on or off
+2026-04-14 19:50:58 [INFO]    xp <player> <amount>      gives the player the amount of xp (0-5000)
+2026-04-14 19:51:26 [INFO] Unknown console command. Type "help" for help.
+2026-04-14 19:51:52 [INFO] CONSOLE: Opping kuronyan
+2026-04-14 19:51:57 [INFO] <KuroNyan> 2026-04-14 19:50:58 [INFO] To run the server without a gui, start it like this:2026-04-14 19:50:58 [
+2026-04-14 19:52:12 [INFO] KuroNyan issued server command: difficulty 0
+2026-04-14 19:52:12 [INFO] Unknown console command. Type "help" for help.
+2026-04-14 19:55:02 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-14 19:55:03 [INFO] KuroNyan [/26.105.150.15:62801] logged in with entity id 1118 at (276.35484212556304, 59.0, 95.74597434675854)
+2026-04-14 20:00:25 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-14 20:00:26 [INFO] KuroNyan [/26.105.150.15:50264] logged in with entity id 1479 at (173.91170035434814, 56.0, 266.48781771640944)
+2026-04-14 20:00:28 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-14 20:00:43 [INFO] KuroNyan [/26.105.150.15:64407] logged in with entity id 1532 at (173.40468247439546, 56.0, 266.35013109840116)
+2026-04-14 20:00:53 [INFO] Unknown console command. Type "help" for help.
+2026-04-14 20:00:55 [INFO] Unknown console command. Type "help" for help.
+2026-04-14 20:00:59 [INFO] To run the server without a gui, start it like this:
+2026-04-14 20:00:59 [INFO]    java -Xmx1024M -Xms1024M -jar minecraft_server.jar nogui
+2026-04-14 20:00:59 [INFO] Console commands:
+2026-04-14 20:00:59 [INFO]    help  or  ?               shows this message
+2026-04-14 20:00:59 [INFO]    kick <player>             removes a player from the server
+2026-04-14 20:00:59 [INFO]    ban <player>              bans a player from the server
+2026-04-14 20:00:59 [INFO]    pardon <player>           pardons a banned player so that they can connect again
+2026-04-14 20:00:59 [INFO]    ban-ip <ip>               bans an IP address from the server
+2026-04-14 20:00:59 [INFO]    pardon-ip <ip>            pardons a banned IP address so that they can connect again
+2026-04-14 20:00:59 [INFO]    op <player>               turns a player into an op
+2026-04-14 20:00:59 [INFO]    deop <player>             removes op status from a player
+2026-04-14 20:00:59 [INFO]    tp <player1> <player2>    moves one player to the same location as another player
+2026-04-14 20:00:59 [INFO]    give <player> <id> [num]  gives a player a resource
+2026-04-14 20:00:59 [INFO]    tell <player> <message>   sends a private message to a player
+2026-04-14 20:00:59 [INFO]    stop                      gracefully stops the server
+2026-04-14 20:00:59 [INFO]    save-all                  forces a server-wide level save
+2026-04-14 20:00:59 [INFO]    save-off                  disables terrain saving (useful for backup scripts)
+2026-04-14 20:00:59 [INFO]    save-on                   re-enables terrain saving
+2026-04-14 20:00:59 [INFO]    list                      lists all currently connected players
+2026-04-14 20:00:59 [INFO]    say <message>             broadcasts a message to all players
+2026-04-14 20:00:59 [INFO]    time <add|set> <amount>   adds to or sets the world time (0-24000)
+2026-04-14 20:00:59 [INFO]    gamemode <player> <mode>  sets player's game mode (0 or 1)
+2026-04-14 20:00:59 [INFO]    toggledownfall            toggles rain on or off
+2026-04-14 20:00:59 [INFO]    xp <player> <amount>      gives the player the amount of xp (0-5000)
+2026-04-14 20:01:05 [INFO] jake [/26.251.223.4:55747] logged in with entity id 1572 at (19.789412574419476, 28.0, -24.549716788528293)
+2026-04-14 20:01:13 [INFO] There's no item with id steak
+2026-04-14 20:01:14 [INFO] Unknown console command. Type "help" for help.
+2026-04-14 20:02:39 [INFO] CONSOLE: Giving KuroNyan some 364
+2026-04-14 20:03:14 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-14 20:03:15 [INFO] KuroNyan [/26.105.150.15:55326] logged in with entity id 2773 at (228.44519459879132, 64.0, 256.30000001192093)
+2026-04-14 20:03:20 [INFO] KuroNyan issued server command: tp
+2026-04-14 20:03:26 [INFO] KuroNyan issued server command: tp jake kuronyan
+2026-04-14 20:03:26 [INFO] KuroNyan: Teleporting jake to kuronyan.
+2026-04-14 20:03:41 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-14 20:03:42 [INFO] KuroNyan [/26.105.150.15:60263] logged in with entity id 2882 at (228.47233825629692, 64.0, 256.79458267106514)
+2026-04-14 20:03:44 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-14 20:04:00 [INFO] KuroNyan [/26.105.150.15:53661] logged in with entity id 2883 at (228.30972211136333, 64.0, 256.30000001192093)
+2026-04-14 20:04:18 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-14 20:04:19 [INFO] KuroNyan [/26.105.150.15:53677] logged in with entity id 2939 at (230.20475251558025, 56.93665494615299, 257.3971252296979)
+2026-04-14 20:04:25 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-14 20:04:26 [INFO] KuroNyan [/26.105.150.15:53684] logged in with entity id 2940 at (229.10142392801103, 39.09054135074083, 260.00793661784684)
+2026-04-14 20:04:27 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-14 20:04:41 [INFO] KuroNyan [/26.105.150.15:53700] logged in with entity id 2942 at (229.10142392801103, 31.0, 260.00793661784684)
+2026-04-14 20:04:44 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-14 20:05:01 [INFO] KuroNyan [/26.105.150.15:63445] logged in with entity id 2944 at (225.8529804645987, 31.0, 262.6332758599968)
+2026-04-14 20:07:30 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-14 20:07:32 [INFO] KuroNyan [/26.105.150.15:56091] logged in with entity id 3066 at (260.6999999880791, 32.44045513047196, 254.699999988079)
+2026-04-14 20:11:47 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-14 20:11:53 [INFO] KuroNyan [/26.105.150.15:56241] logged in with entity id 3180 at (277.36296537777076, 18.0, 234.95806208752086)
+2026-04-14 20:17:22 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-14 20:17:31 [INFO] jake lost connection: disconnect.quitting
+2026-04-14 20:17:37 [INFO] jake [/26.251.223.4:55870] logged in with entity id 3788 at (-2.321615550852369, 64.0, 6.07481082030896)
+2026-04-14 20:17:50 [INFO] KuroNyan [/26.105.150.15:50092] logged in with entity id 3790 at (284.30000001192093, 10.0, 254.69999998807896)
+2026-04-14 20:20:00 [INFO] jake lost connection: disconnect.quitting
+2026-04-14 20:22:17 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-14 20:22:19 [INFO] KuroNyan [/26.105.150.15:64324] logged in with entity id 4357 at (302.41209955549266, 8.0, 247.51807818393104)
+2026-04-14 20:23:02 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-14 20:23:03 [INFO] KuroNyan [/26.105.150.15:52713] logged in with entity id 4468 at (293.45172075376547, 10.0, 238.27552029515024)
+2026-04-14 20:23:04 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-14 20:23:24 [INFO] KuroNyan [/26.105.150.15:50688] logged in with entity id 4547 at (293.46492906277575, 10.03998044967695, 237.8267501377634)
+2026-04-14 20:28:22 [INFO] KuroNyan lost connection: disconnect.quitting
+2026-04-14 20:28:27 [INFO] CONSOLE: Stopping the server..
+2026-04-14 20:28:27 [INFO] Stopping server
+2026-04-14 20:28:27 [INFO] Saving chunks
+2026-04-14 20:28:27 [INFO] Saving chunks
+2026-04-14 20:28:27 [INFO] Saving chunks
